@@ -1,8 +1,8 @@
 # 100DaysofMLCode
-This repository is a part of #100DaysofMLCode challenge. That mean,s I pledge to code machine learning for at least an hour everyday for the next 100 day.s.
-Challenge is starting from June 06 2018.
+This repository is a part of #100DaysofMLCode challenge. That means, I pledge to code machine learning for at least an hour everyday for the next 100 days.
+Challenge is starting from July 06, 2018.
 
-## Day 1: June 06, 2018
+## Day 1: July 06, 2018
 
 ### What I did ?
 
