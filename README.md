@@ -32,3 +32,11 @@ By default, the pickle data format uses a relatively compact binary representati
 If you need optimal size characteristics, you can efficiently compress pickled data.
 To know more, see Pickle official [documentation](https://docs.python.org/3/library/pickle.html#data-stream-format).
 
+
+## Day 3: July 08, 2018
+
+### What I did ?
+
+1. Build up a Deep Learning Rest API using Keras
+2. Predict the pictures of Dogs, Cats, Rabbit specific to their bread.
+3. To setup your own environment and the source code [Look Here](https://github.com/Praneet460/100DaysofMLCode/tree/master/July_08_2018)
