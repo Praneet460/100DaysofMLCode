@@ -27,7 +27,7 @@ Request can be submitted via cURL:
 Below you can see the image we wish to classify:
 1. A dog, but more specifically a beagle.
 
-![Dog](/dog.jpg)
+![Dog](https://github.com/Praneet460/100DaysofMLCode/blob/master/July_08_2018/dog.jpg)
 
 ```{
   "predictions": [
@@ -58,7 +58,8 @@ Below you can see the image we wish to classify:
 
 2. A cat, but more specifically an egyptian cat.
 
-![Cat](/cat.jpeg)
+![Cat](https://github.com/Praneet460/100DaysofMLCode/blob/master/July_08_2018/cat.jpeg)
+
 
 ```{
   "predictions": [
@@ -89,7 +90,7 @@ Below you can see the image we wish to classify:
 
 3. A rabbit, but more specifically a hare.
 
-![rabbit](/rabbit.jpg)
+![rabbit](https://github.com/Praneet460/100DaysofMLCode/blob/master/July_08_2018/rabbit.jpg)
 
 ```{
   "predictions": [
