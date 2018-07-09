@@ -40,3 +40,12 @@ To know more, see Pickle official [documentation](https://docs.python.org/3/libr
 1. Build up a Deep Learning Rest API using Keras
 2. Predict the pictures of Dogs, Cats, Rabbit specific to their bread.
 3. To setup your own environment and the source code [Look Here](https://github.com/Praneet460/100DaysofMLCode/tree/master/July_08_2018)
+
+
+## Day 4: July 09, 2018
+
+### What I did ?
+
+1. Go through a series of lectures by <b>Lex Fridman</b>, a research scientist at MIT.
+2. These lectures include the content about Deep Reinforcement Learning and Self-Driving Cars
+3. To know more about, what I learned [Look Here](https://github.com/Praneet460/100DaysofMLCode/tree/master/July_09_2018)
