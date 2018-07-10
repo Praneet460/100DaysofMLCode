@@ -1,3 +1,5 @@
+Star the repo if you like, and to get updates.
+
 ## Day 5: July 10, 2018
 
 1. Build up a Deep learning model for classifing MNIST Dataset using Keras.
