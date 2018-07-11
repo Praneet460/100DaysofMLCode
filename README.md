@@ -69,3 +69,10 @@ To know more, see Pickle official [documentation](https://docs.python.org/3/libr
 
 3. Most methods improve the model training & test performance. That's why we will use them all together.
 4. After applying all the models together we get the accuracy near to <b>98%</b>. [Look Here](https://github.com/Praneet460/100DaysofMLCode/blob/master/July_10_2018/Final_Model.ipynb)
+
+
+## Day 6: July 11, 2018
+
+### What I did?
+
+Go through a series of lectures on self driving cars by Udacity.
