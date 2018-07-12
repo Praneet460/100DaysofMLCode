@@ -76,3 +76,7 @@ To know more, see Pickle official [documentation](https://docs.python.org/3/libr
 ### What I did?
 
 Go through a series of lectures on self driving cars by Udacity.
+
+## Day 7: July 12, 2018
+
+Started learning about Recommendation Engines.
