@@ -31,6 +31,7 @@ To know more, see Keras official [documentation](https
 By default, the pickle data format uses a relatively compact binary representation. 
 If you need optimal size characteristics, you can efficiently compress pickled data.
 To know more, see Pickle official [documentation](https://docs.python.org/3/library/pickle.html#data-stream-format).
+Or you can follow up the [Introduction-To-Pickle](https://github.com/Praneet460/100DaysofMLCode/blob/master/Pickle/pickle.ipynb) tutorial.
 
 
 ## Day 3: July 08, 2018
